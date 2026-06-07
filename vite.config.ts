@@ -10,7 +10,7 @@ export default defineConfig({
     tailwindcss(),
     tanstackStart(),
     nitro({
-      preset: 'vercel'
+      preset: 'netlify'
     }),
     react(),
     tsconfigPaths(),
