@@ -1,0 +1,1 @@
+const s="/assets/project-villa-ub0Ct4WR.jpg",t="/assets/project-residential-BdkztAzY.jpg",e="/assets/project-commercial-CB8XkS9z.jpg",a="/assets/project-interior-D0Fy5qJ3.jpg";export{e as c,a as i,t as r,s as v};
